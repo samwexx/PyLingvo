@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d76015a362b009d46935c2745b7d2b77, type: 3}
+  m_Name: Scene2 with Mudresio
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  lines:
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "Cik tu \u0101tri atn\u0101ci! Negaid\u012Bju...\nVilki tevi neap\u0113da?
+      hihi..."
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "Starp citu, k\u0101 tevi sauc?"
+  - speaker: {fileID: 11400000, guid: 5634d5603d215cf43a4361c20fc26def, type: 2}
+    text: "Es... Es esmu \u0136iver\u012Btis..."
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "Tu pavisam sabijies izskaties. Neuztraucies, viss b\u016Bs k\u0101rt\u012Bb\u0101.
+      Es tev past\u0101st\u012B\u0161u pamatus un pal\u012Bdz\u0113\u0161u tev nepazust
+      \u0161aj\u0101 pasaul\u0113."
+  - speaker: {fileID: 11400000, guid: 5634d5603d215cf43a4361c20fc26def, type: 2}
+    text: 'L-labi..., es klausos.
+
+'
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "L\u016Bk:\n\" - p\u0113di\u0146as. nor\u0101da, ka tas ir teksts (raksta
+      \u0161\u0101di: \"teksts\");\n() - iekavas. vajadz\u012Bgas funkcij\u0101m
+      (print() nevar str\u0101d\u0101t bez t\u0101m);\n\n\n"
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "+, -, /, *, = - pie\u0161\u0137ir v\u0113rt\u012Bbu;\n** - k\u0101pin\u0101\u0161ana;\n%
+      - atlikums no dal\u012Bjuma (5%2=1);\n"
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "// - dal\u012Bjuma vesel\u0101 da\u013Ca (6//3=2);\n>, < - liel\u0101ks,
+      maz\u0101ks nek\u0101;\n>=, <= liel\u0101ks, maz\u0101ks vai vien\u0101ds;"
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "== - vai ir vien\u0101ds?;\n!= - vai nav vien\u0101ds?;"
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "and - un;\nor - vai;\n# - koment\u0101rs;"
+  - speaker: {fileID: 11400000, guid: 5634d5603d215cf43a4361c20fc26def, type: 2}
+    text: "Un man tas viss j\u0101zina!?"
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "Protams! Oh..., es piekusu. Ej pastaig\u0101jies un apdom\u0101 visu,
+      ko teicu. Aizej uz leju, tur ir br\u012Bni\u0161\u0137\u012Bgs me\u017Ei\u0146s.
+      P\u0113c tam ej apskaties kas ir aug\u0161\u0101. Nesatraucies, ja k\u0101du
+      satiksi, visi \u0161eit ir laipni."
+  - speaker: {fileID: 11400000, guid: 53c5f8dde9a4ee34ea6341acac2facf5, type: 2}
+    text: "At\u0101!"

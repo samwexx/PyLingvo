@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d76015a362b009d46935c2745b7d2b77, type: 3}
+  m_Name: Scene3_with_Noslepumainis
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  lines:
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Sveiks! Tu esi k\u0101 reiz laik\u0101!"
+  - speaker: {fileID: 11400000, guid: 5634d5603d215cf43a4361c20fc26def, type: 2}
+    text: Kas notika?
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Mani kr\u016Bmi\u0146i, tu redzi, kas ar tiem notika?"
+  - speaker: {fileID: 11400000, guid: 5634d5603d215cf43a4361c20fc26def, type: 2}
+    text: "J\u0101, vi\u0146i kaut k\u0101di d\u012Bvaini. Kas ar vi\u0146iem notika?"
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Es nezinu, bet es \u013Coti uztraucos. Es tos tik ilgi audz\u0113ju."
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Es nezinu, bet es \u013Coti uztraucos. Es tos tik ilgi audz\u0113ju."
+  options:
+  - optionText: "Es pal\u012Bdz\u0113\u0161u!"
+    nextDialogue: {fileID: 11400000, guid: 4bf8cbf4c42746547a6d973a32414caa, type: 2}
+  - optionText: "K\u0101 pal\u012Bdz\u0113t?"
+    nextDialogue: {fileID: 11400000, guid: 36d8e89957954774d9825810e64d8692, type: 2}

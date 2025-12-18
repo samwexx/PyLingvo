@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d76015a362b009d46935c2745b7d2b77, type: 3}
+  m_Name: Question_IrVienads
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  lines:
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: Nepareizi.
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Tad v\u0113l viens jaut\u0101jums tev."
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Ko noz\u012Bm\u0113 \"**\"?"
+  options:
+  - optionText: "Reizin\u0101\u0161ana"
+    nextDialogue: {fileID: 11400000, guid: e2b3ea90e76f12347844f9c67aa1170a, type: 2}
+  - optionText: "K\u0101pin\u0101\u0161ana"
+    nextDialogue: {fileID: 11400000, guid: 36097e009eab5654b899ce50f8abdd35, type: 2}
+  - optionText: "Sal\u012Bdzin\u0101\u0161ana"
+    nextDialogue: {fileID: 11400000, guid: 0852c4adba2eef448b428ea1ee076fdc, type: 2}

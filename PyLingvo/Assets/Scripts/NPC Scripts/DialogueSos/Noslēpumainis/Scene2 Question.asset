@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d76015a362b009d46935c2745b7d2b77, type: 3}
+  m_Name: Scene2 Question
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  lines:
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: Labdien.
+  - speaker: {fileID: 11400000, guid: 5634d5603d215cf43a4361c20fc26def, type: 2}
+    text: Sveiki!
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Es tevi redzu pirmo reizi. T\u0101p\u0113c uzdo\u0161u tev jaut\u0101jumu."
+  - speaker: {fileID: 11400000, guid: 8525725f67e9f20439e98baae4141e68, type: 2}
+    text: "Ko noz\u012Bm\u0113 \"!=\"?"
+  options:
+  - optionText: "Vai ir vien\u0101ds?"
+    nextDialogue: {fileID: 11400000, guid: 379e0ac7a420b6641922997b578be9c2, type: 2}
+  - optionText: "Vai nav vien\u0101ds?"
+    nextDialogue: {fileID: 11400000, guid: 981a2d9a13519c74eb6b7f047cbd81ee, type: 2}
