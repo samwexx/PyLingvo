@@ -33,11 +33,11 @@ There are two ways to use the project:
 Licensed under Creative Commons Zero (CC0).
 
 ### Character assets
-- Player and NPC sprites by Pixel Frog - https://pixelfrog-assets.itch.io/tiny-swords
+- Player and NPC sprites by Pixel Frog — https://pixelfrog-assets.itch.io/tiny-swords  
 Used under the asset pack license (credit optional).
 
 
-Additional free assets were taken from free online resources
+Some additional free assets were taken from free online resources
 and are used for educational purposes only.
 
 ## Project Status
