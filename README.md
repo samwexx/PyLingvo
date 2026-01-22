@@ -51,7 +51,6 @@ Nākotnes uzlabojumi var ietvert papildu līmeņus un jaunas funkcijas.
 
 1. Atveriet projekta GitHub lapu.
 2. Dodieties uz sadaļu **Releases** (labajā pusē).
-3. Izvēlieties jaunāko versiju.
-4. Sadaļā **Assets** lejupielādējiet arhīvu (`.zip`).
-5. Atarhivējiet failu savā datorā.
-6. Atveriet mapi un palaidiet `.exe` failu.
+3. Lejupielādējiet arhīvu (`PyLingvo_Build_W.zip`).
+4. Atarhivējiet failu savā datorā.
+5. Atveriet mapi un palaidiet `.exe` failu.
